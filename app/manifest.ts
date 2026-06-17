@@ -26,10 +26,10 @@ import type { MetadataRoute } from 'next';
 export default function manifest(): MetadataRoute.Manifest {
   return {
     // Full name displayed in app launcher and splash screens
-    name: 'TehGo - Tehran Metro Guide',
+    name: '3ydMetro - Tehran Metro Guide',
 
     // Short name displayed when space is limited (e.g., home screen icon label)
-    short_name: 'TehGo',
+    short_name: '3ydMetro',
 
     // Description shown in app stores and during installation
     description:
