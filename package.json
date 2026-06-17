@@ -1,8 +1,8 @@
 {
-  "name": "tehgo",
+  "name": "syd-metro",
   "version": "0.1.8",
   "private": true,
-  "description": "TehGo - Tehran Metro Guide PWA with offline support and i18n",
+  "description": "Metro3yd - Tehran Metro Guide PWA with offline support and i18n",
   "author": "TehGo Contributors",
   "license": "MIT",
   "scripts": {
