@@ -1,7 +1,7 @@
 /**
  * Route Finder Page
  *
- * The main page of TehGo - Tehran Metro route planning.
+ * The main page of 3ydMetro - Tehran Metro route planning.
  * Users can:
  * - Select origin and destination stations
  * - Find the best route between stations
