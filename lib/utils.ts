@@ -1,5 +1,5 @@
 /**
- * Utility Functions for TehGo PWA
+ * Utility Functions for 3ydMetro PWA
  *
  * This module contains commonly used utility functions across the application.
  *
