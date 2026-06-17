@@ -46,17 +46,17 @@ export async function generateMetadata({
   if (!hasLocale(lang)) {
     return {}
   }
-  const siteName = 'TehGo'
-  const appUrl = 'https://tehgo.ir'
+  const siteName = '3ydMetro'
+  const appUrl = 'https://metro.immsv.ir'
   const title = lang === 'fa'
     ? 'تهگو - راهنمای مترو تهران'
-    : 'TehGo - Tehran Metro Guide'
+    : '3ydMetro - Tehran Metro Guide'
   const description = lang === 'fa'
     ? 'بهترین مسیریاب مترو تهران. مسیریابی آسان، اطلاعات ایستگاه‌ها و خطوط مترو.'
     : 'The best Tehran Metro route planner. Easy routing, station info, and metro lines.'
   const keywords = lang === 'fa'
     ? ['تهران', 'مترو', 'مسیریاب', 'حمل و نقل', 'ایران', 'تهگو']
-    : ['Tehran', 'Metro', 'Route Planner', 'Transportation', 'Iran', 'TehGo']
+    : ['Tehran', 'Metro', 'Route Planner', 'Transportation', 'Iran', '3ydMetro']
 
   return {
     // Basic metadata
@@ -67,7 +67,7 @@ export async function generateMetadata({
     },
     description,
     keywords,
-    authors: [{ name: 'TehGo Contributors' }],
+    authors: [{ name: '3ydMetro Contributors' }],
     generator: 'Next.js',
 
     // Application name for PWA
@@ -101,7 +101,7 @@ export async function generateMetadata({
           url: '/opengraph-image',
           width: 1200,
           height: 630,
-          alt: 'TehGo - Tehran Metro Guide | راهنمای مترو تهران',
+          alt: '3ydMetro - Tehran Metro Guide | راهنمای مترو تهران',
         },
       ],
     },
@@ -111,8 +111,7 @@ export async function generateMetadata({
       card: 'summary_large_image',
       title,
       description,
-      site: '@tehgo',
-      creator: '@taymakz',
+      site: '3ydMetro',
       images: ['/opengraph-image'],
     },
 
