@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/',
     },
-    sitemap: 'https://tehgo.ir/sitemap.xml', // Replace with your actual domain
+    sitemap: 'https://metro.immsv.ir/sitemap.xml', // Replace with your actual domain
   }
 }
