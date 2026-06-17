@@ -35,7 +35,7 @@ export function AppHeader({ dict }: { dict: Dict }) {
 
         {/* Theme, Locale Switcher, Github */}
         <div className="flex items-center gap-2">
-          <Link href="https://github.com/taymakz/tehgo" target="_blank">
+          <Link href="https://github.com/smblue07/metro" target="_blank">
             <Button variant="ghost" size="icon">
               <i className="icon-[lucide--github] size-6" />
               <span className="sr-only">Github</span>
