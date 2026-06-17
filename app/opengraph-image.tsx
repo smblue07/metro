@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "TehGo - Tehran Metro Guide | راهنمای مترو تهران";
+export const alt = "3ydMetro - Tehran Metro Guide | راهنمای مترو تهران";
 export const size = {
   width: 1200,
   height: 630,
@@ -68,7 +68,7 @@ export default async function Image() {
             fontFamily: "sans-serif",
           }}
         >
-          Tehgo.ir
+          sNbLuE
         </p>
 
         {/* Main title - English */}
