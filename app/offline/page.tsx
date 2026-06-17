@@ -12,8 +12,8 @@ import type { Metadata } from 'next'
 import { RetryButton } from './retry-button'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://tehgo.ir'),
-  title: 'Offline - TehGo',
+  metadataBase: new URL('https://metro.immsv.ir'),
+  title: 'Offline - 3ydMetro',
   description: 'You are currently offline',
 }
 
